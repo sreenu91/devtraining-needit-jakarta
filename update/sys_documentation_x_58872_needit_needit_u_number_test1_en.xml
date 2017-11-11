@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_number_test1" label="Number Test1" language="en" table="x_58872_needit_needit">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_number_test1</element>
+            <help/>
+            <hint/>
+            <label>Number Test1</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <plural>Number Test1s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sreenu madasu</sys_created_by>
+            <sys_created_on>2017-11-11 10:32:19</sys_created_on>
+            <sys_id>ebd0f7e60fd2430016608ecce1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Number Test1</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_x_58872_needit_needit_u_number_test1_en</sys_update_name>
+            <sys_updated_by>sreenu madasu</sys_updated_by>
+            <sys_updated_on>2017-11-11 10:32:19</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
